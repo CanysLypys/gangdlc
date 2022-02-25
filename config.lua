@@ -1,0 +1,26 @@
+Config = {}
+
+Config.DrogenVerkaufOrte = {
+    { ["x"] = -144.55, ["y"] = -1587.24, ["z"] = 34.84, ["h"] = 109.49, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 0},
+    { ["x"] = -31.11, ["y"] = -1562.63, ["z"] = 30.68, ["h"] = 232.5, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 1},
+    { ["x"] = 62.57, ["y"] = -1841.67, ["z"] = 24.45, ["h"] = 316.6, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 2},
+    { ["x"] = -172.95, ["y"] = -1530.41, ["z"] = 34.35, ["h"] = 144.37, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 3},
+    { ["x"] = -121.78, ["y"] = -1476.71, ["z"] = 33.82, ["h"] = 321.0, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 4},
+    { ["x"] = 451.74, ["y"] = -1494.04, ["z"] = 29.29, ["h"] = 112.89, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 5},
+    { ["x"] = 451.94, ["y"] = -1731.62, ["z"] = 28.99, ["h"] = 237.59, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 6},
+    { ["x"] = 375.73, ["y"] = -1848.92, ["z"] = 27.76, ["h"] = 45.8, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 7},
+    { ["x"] = 246.12, ["y"] = -1955.64, ["z"] = 23.22, ["h"] = 314.1, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 8},
+    { ["x"] = 279.46, ["y"] = -2053.05, ["z"] = 18.73, ["h"] = 137.72, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 9},
+    { ["x"] = 501.36, ["y"] = -1966.39, ["z"] = 24.99, ["h"] = 121.3, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 10},
+    { ["x"] = 486.16, ["y"] = -1370.23, ["z"] = 29.37, ["h"] = 275.65, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 11},
+    { ["x"] = 174.56, ["y"] = -1238.66, ["z"] = 29.2, ["h"] = 233.44, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 12},
+    { ["x"] = -313.17, ["y"] = -1333.4, ["z"] = 31.36, ["h"] = 87.25, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 13},
+    { ["x"] = 174.56, ["y"] = -1238.66, ["z"] = 29.2, ["h"] = 233.44, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 14},
+    { ["x"] = -250.64, ["y"] = -1529.84, ["z"] = 31.58, ["h"] = 309.66, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 15},
+    { ["x"] = -141.16, ["y"] = -1457.04, ["z"] = 33.47, ["h"] = 46.66, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 16},
+    { ["x"] = -71.74, ["y"] = -1423.37, ["z"] = 29.59, ["h"] = 357.88, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 17},
+    { ["x"] = -40.68, ["y"] = -1311.3, ["z"] = 29.25, ["h"] = 87.62, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 18},
+    { ["x"] = -65.57, ["y"] = -1226.43, ["z"] = 28.83, ["h"] = 231.68, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 19},
+    { ["x"] = -155.92, ["y"] = -1255.27, ["z"] = 31.3, ["h"] = 5.19, ["Hash"] = 0xE497BBEF, ["Model"] = "s_m_y_dealer_01", ["Animation"] = "WORLD_HUMAN_SMOKING", ["Drogentyp"] = "Weed", ["PreisMin"] = 50, ["PreisMax"] = 100, ["ID"] = 20},
+
+}
